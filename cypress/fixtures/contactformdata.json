@@ -1,0 +1,11 @@
+{ 
+
+    "FirstName":"Ram",
+    "MiddleName":"Kumar",
+    "LastName":"Shrestha",
+    "EmailAddress":"ramks@gmail.com",
+    "PhoneNumber":"985123456",
+    "Country":"Nepal",
+    "City":"Kathmandu"
+    
+}
